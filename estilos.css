@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(214, 145, 241);
+}
+
+.barra{
+    background-color: rgb(193, 156, 228);
+    font-stretch:extra-expanded;
+    font-size: larger;  
+    
+}
+
+.barra >li>a {
+    color: rgb(65, 141, 141);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.barra >li>a:hover{
+    color:rgb(109, 181, 245);
+    background-color: rgb(178, 84, 255);
+    font-size:larger;
+
+}
+
+.barra >li>a active{
+    color: rgb(33, 4, 59);
+}
+
+.navbar-brand >img{
+    width: 50px;
+    border-radius: 100px;
+}
+
+.row img{
+    width: 280px;
+    height: 200px;
+    justify-content:space-between;
+}
+
+.row >div {
+    color: rgb(92, 42, 209);
+    font-size: 23px;
+
+}
+.row iframe{
+    width: 2010px;
+    height: 520px;
+    
+}
+.row h1{
+    color: rgb(153, 25, 185);
+}
+
+.carusel{
+    height: 400px;
+    object-fit: fill;
+}
+
